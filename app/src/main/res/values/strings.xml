@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buttons and TextViews</string>
+    <string name="numiscount">\The number is: \ </string>
+    <string name="plus">increment</string>
+    <string name="minus">decrement</string>
+    <string name="numstart">The number is: 0</string>
+
+</resources>
